@@ -84,7 +84,7 @@ const firebaseConfig = {
 };
 // =========================================================================================
 
-const appId = "default-app-id"; // Este pode ser qualquer nome que você escolher.
+const appId = "default-app-id"; 
 
 // --- Main App Component ---
 function App() {
